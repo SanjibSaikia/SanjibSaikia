@@ -1,6 +1,6 @@
 - Hi, I’m Sanjib Saikia
-- I’m interested in Python , Big Data, AWS , ETL
-- I’m currently learning Airflow
+- Interested in Python , Big Data, AWS , ETL
+- Currently learning Airflow
 - Skill Set : Python, Enthusiast, MySQL, Selenium
 - How to reach me sanjibsaikia027@gmail.com
 
