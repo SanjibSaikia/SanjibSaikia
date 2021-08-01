@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sanjib Saikia
-- 👀 I’m interested in Python , AWS , PySpark
+- 👀 I’m interested in Python , Big Data, AWS , PySpark , ETL with Python
 - 🌱 I’m currently learning Airflow
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me sanjibsaikia027@gmail.com
