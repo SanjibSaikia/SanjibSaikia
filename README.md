@@ -1,7 +1,7 @@
 - Hi, I’m Sanjib Saikia
 - Interested in Python , Big Data, AWS , ETL
 - Currently learning Airflow
-- Skill Set : Python, Enthusiast, MySQL, Selenium
+- Skill Set : Python, PySpark, MySQL, Selenium
 - How to reach me sanjibsaikia027@gmail.com
 
 <!---
